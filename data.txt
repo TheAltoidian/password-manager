@@ -1,0 +1,2 @@
+amazon | me@gmail.com | pass
+facebook | me@gmail.com | fbpass
