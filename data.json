@@ -1,10 +1,10 @@
 {
-    "asd": {
-        "email": "@gmail.com",
-        "password": "&$4tq6sDChoI&G)"
+    "Amazon": {
+        "email": "me@gmail.com",
+        "password": "test_pass"
     },
-    "fdafdas": {
-        "email": "@gmail.com",
-        "password": "2k9LJMomfk*1*"
+    "Facebook": {
+        "email": "me@gmail.com",
+        "password": "other_test_pass"
     }
 }

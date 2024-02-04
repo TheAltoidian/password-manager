@@ -1,4 +1,0 @@
-amazon | me@gmail.com | pass
-facebook | me@gmail.com | fbpass
-testestest | emailthing@gmail.com | 876543
-asdfasdf | @gmail.com | dadadadadada
